@@ -1,8 +1,8 @@
-Litecoin 0.8.x BETA
+AxaCoin 0.1.x BETA
 ====================
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2009-2017 Bitcoin Developers
+Copyright (c) 2017-2017 AxaCoin Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -25,12 +25,12 @@ You need the Qt4 run-time libraries to run Litecoin-Qt. On Debian or Ubuntu:
 
 Unpack the files into a directory and run:
 
-- bin/32/litecoin-qt (GUI, 32-bit)
-- bin/32/litecoind (headless, 32-bit)
-- bin/64/litecoin-qt (GUI, 64-bit)
-- bin/64/litecoind (headless, 64-bit)
+- bin/32/axacoin-qt (GUI, 32-bit)
+- bin/32/axacoind (headless, 32-bit)
+- bin/64/axacoin-qt (GUI, 64-bit)
+- bin/64/axacoind (headless, 64-bit)
 
-See the documentation at the [Litecoin Wiki](http://litecoin.info)
+See the documentation at the [Axacoin Wiki](http://axacoins.com)
 for help and more information.
 
 
